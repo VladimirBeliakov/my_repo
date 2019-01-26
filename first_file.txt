@@ -1,2 +1,3 @@
 First line of the first commit
 Second line of the first commit
+Third line of the second commit
