@@ -3,3 +3,4 @@ Second line of the first commit
 Third line of the second commit
 Forth line of the forth commit
 New fifth line
+Another line
