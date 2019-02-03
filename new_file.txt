@@ -1,5 +1,3 @@
 New line. Another conflicting change.
-dsidffasdfas
-f
 qoelkj
 Something new for merging
